@@ -1,0 +1,22 @@
+{
+  "name": "boomguy",
+  "version": "1.0.0",
+  "description": "Working on JS NFT generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RNateWorkman/boomguy-js.git"
+  },
+  "author": "Chain and Block",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RNateWorkman/boomguy-js/issues"
+  },
+  "homepage": "https://github.com/RNateWorkman/boomguy-js#readme",
+  "dependencies": {
+    "canvas": "^2.9.0"
+  }
+}

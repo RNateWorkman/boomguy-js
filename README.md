@@ -1,0 +1,2 @@
+#Dependencies:
+"$yarn add canvas"
