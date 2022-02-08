@@ -1,4 +1,12 @@
 .env
-assets/
+assets/background/
+assets/eyes/
+assets/hands/
+assets/hat/
+assets/left_out/
+assets/mouth/
+assets/nug/
+assets/pants/
+assets/shoes/
 node_modules/
 canvasShapes.js
